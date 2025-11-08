@@ -103,11 +103,3 @@ The model reduces radiation exposure and cost by replacing hundreds of X-ray pro
 
 ---
 
-## 🩻 Qualitative Results
-
-![Generator Output](https://user-images.githubusercontent.com/your_image_here.png)
-
----
-
-## 📁 Folder Structure
-
